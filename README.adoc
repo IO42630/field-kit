@@ -17,3 +17,9 @@ WIP.
     ** Frontend (?)
     ** Data Visualization (?)
 
+
+
+=== Setup
+* WIN
+** pyenv win
+**
