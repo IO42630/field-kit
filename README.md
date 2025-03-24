@@ -1,10 +1,9 @@
-=== Field Kit
+### Field Kit
 
-Meant as a collection of easy-to-use tools that cover common use cases. +
+Meant as a collection of easy-to-use tools that cover common use cases.
 WIP.
 
-
-==== List of Use Cases
+#### List of Use Cases
 
 * Parsing
     ** PDF
@@ -19,7 +18,7 @@ WIP.
 
 
 
-=== Setup
+###  Setup
+
 * WIN
 ** pyenv win
-**
